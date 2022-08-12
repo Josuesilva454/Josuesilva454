@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo Backend e Frontend
 - 🌱 Estudando java e Reactjs
-- 💬 Ask me about ...
 - 😄 Pronouns: Ele
 
 <div align="center">
