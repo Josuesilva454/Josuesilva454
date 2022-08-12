@@ -1,7 +1,7 @@
 ### Oi meu nome e Josué Silva Rosa 👋
 
 - 🔭 Hoje estudo Backend e Frontend
-- 🌱 Estudando java , Reactjs e Analíse de dados
+- 🌱 Estudando java , Reactjs e Análise de dados
 - 😄 Pronouns: Ele
 
 <div align="center">
