@@ -1,6 +1,6 @@
 ### Oi meu nome e Josué Silva Rosa 👋
 
-- 🔭 Hoje estudo Backend e Frontend
+- 🔭 Meu nome é Josué, tenho 25 anos e estou em busca nova oportunidade na área da TI, hoje me vejo como desenvolvedor júnior, atualmente possuo conhecimento lógica de programação, SCRUM, DEVOPS, java Script, php, Java Spring Boot, Introdução de rede, mysql, sqlserver, modelagem UML, e metodologias ágeis.
 - 🌱 Estudando Spring boot java, Reactjs, Vue.
 - 😄 Pronouns: Ele
 
