@@ -1,6 +1,6 @@
 ### Oi meu nome e Josué Silva Rosa 👋
 
-- 🔭 Meu nome é Josué, tenho 25 anos e estou em busca nova oportunidade na área da TI, hoje me vejo como desenvolvedor júnior, atualmente possuo conhecimento lógica de programação, SCRUM, DEVOPS, java Script, php,Java, mysql, sqlserver, modelagem UML, e metodologias ágeis, Redes.
+- 🔭 Meu nome é Josué, tenho 25 anos e estou em busca nova oportunidade na área da TI, hoje me vejo como desenvolvedor júnior, atualmente possuo conhecimento lógica de programação, SCRUM, DEVOPS, java Script, php, Java, python, mysql, sqlserver, modelagem UML, e metodologias ágeis, Redes.
 - 🌱 Estudando Spring boot java, LaravelPhp, microsserviço,docker,Banco de dados, Reactjs.
 - 😄 Pronouns: Ele
 
