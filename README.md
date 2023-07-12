@@ -1,4 +1,4 @@
-### Oi meu nome e Josué Silva Rosa 👋
+### Holla, my name is Josue 👋
 
 - 🔭 Formado em Análise e Desenvolvimento De Sistema.
 - 🌱 Spring boot java, microsserviço,docker, Banco de dados, Reactjs.
