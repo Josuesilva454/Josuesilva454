@@ -1,6 +1,7 @@
 ### Holla, my name is Josue 👋
 
 - 🔭 Formado em Análise e Desenvolvimento De Sistema.
+-  🔭 Ciências da Computação.
 - 🌱 Spring boot java, microsserviço,docker, Banco de dados, Reactjs.
 - 😄 Pronouns: Ele
 
